@@ -1,0 +1,4 @@
+// npm install serverless -g
+// serverless login
+serverless create --template aws-nodejs
+serverless deploy
